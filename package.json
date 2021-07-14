@@ -1,0 +1,9 @@
+{
+  "name": "qc-storage",
+  "version": "1.0.1",
+  "description": "storage",
+  "main": "index.js",
+  "repository": "git@github.com:canwhite/qc-storage.git",
+  "author": "qiaochao <752716886@qq.com>",
+  "license": "MIT"
+}
